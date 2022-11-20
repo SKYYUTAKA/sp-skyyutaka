@@ -3,12 +3,27 @@ a {
 }
 
 h1 {
-  font-family: Staatliches;
-  font-size: 120px;
+  font-family: Roboto Light;
+  font-size: 22px;
+}
+
+h2 {
+  font-family: Roboto Light;
+  font-size: 22px;
+}
+
+h3 {
+  font-family: Roboto Light;
+  font-size: 22px;
+}
+
+Body {
+  font-family: Roboto Light;
+  font-size: 18px;
 }
 
 #category {
-  font-family: Staatliches;
+  font-family: Roboto Light;
   font-weight: 500;
 }
 
@@ -32,7 +47,7 @@ h1 {
 
 .uk-navbar-container {
   background: #fff !important;
-  font-family: Staatliches;
+  font-family: Roboto Light;
 }
 
 img:hover {
